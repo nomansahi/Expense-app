@@ -1,0 +1,14 @@
+.expense {
+  background-color: #a892ee;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.btnPostion {
+  position: relative;
+}
+.button {
+  position: absolute;
+
+  right: 10px;
+  bottom: 0;
+}
